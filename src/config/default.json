@@ -1,0 +1,20 @@
+{
+  "signUp": {
+    "validation": {
+      "displayName": "Please provide a valid Display Name.",
+      "email": "Please provide a valid Email.",
+      "password": "Please provide a valid Password.",
+      "acceptUserAgreement": "Please read and accept User Agreement."
+    },
+    "alert": {
+      "title": "Check you email!",
+      "text": "Click on link in email to verify your account."
+    }
+  },
+  "signUpConfirm": {
+    "alert": {
+      "title": "Congrats!",
+      "text": "Account has been activated. Now you can Sign In."
+    }
+  }
+}
